@@ -13,3 +13,5 @@ function possibleBonus(a,b){
 
 console.log(possibleBonus(6,6));
 console.log(possibleBonus(5,6));
+
+
