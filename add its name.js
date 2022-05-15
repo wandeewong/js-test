@@ -1,4 +1,4 @@
-const addName = (obj, word, number) => {
+function addName(obj, word, number){
     let objArg = obj;
     objArg[word] = number;
   
